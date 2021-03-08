@@ -1,0 +1,102 @@
+[ 
+ {
+question: In which year did Maradona score a goal with his hand?,
+answers: {
+	a. 1986,
+	b. 1985,
+	c. 1988,
+	d. 1987
+           },
+correct_answer: a. 1986
+},
+{
+ question: What is the national sport in Japan?,
+answers: {
+	a. cricket,
+	b. ping pong,
+	c. sumo wrestling,
+	d. badminton
+	},
+correct_answer: c. sumo wrestling
+},
+{
+ question: How many minutes is a rugby match?,
+answers: {
+	a. 90 minutes,
+	b. 80 minutes,
+	c. 60 minutes,
+	d. 120 minutes
+	},
+correct_answer: b. 80 minutes
+},
+{
+ question: In which country were the first Olympic Games held?,
+answers: {
+	a. Greece,
+	b. Japan,
+	c. U.S.A,
+	d. Australia
+	},
+correct_answer: a. Greece
+},
+{
+ question: How many players are on each side of the net in beach volleyball?,
+answers: {
+	a. 3,
+	b. 1,
+	c. 2,
+	d. 4
+	},
+correct_answer: c. 2 
+},
+{
+ question: How matches did Mohammed Ali lose in his career?,
+answers: {
+	a. ten,
+	b. only one,
+	c. five,
+	d. zero
+	},
+correct_answer: b. only one
+},
+{
+ question: How long is an Olympic swimming pool?,
+answers: {
+	a. 50 meters,
+	b. 60 meters,
+	c. 100 meters,
+	d. 80 meters
+	},
+correct_answer: a. 50 meters 
+},
+{
+ question: Which car won Fernando Alonso his first title in Formula 1 with?,
+answers: {
+	a. Ford,
+	b. Hyundai,
+	c. Mercedes,
+	d. Renault
+	},
+correct_answer: d. Renault
+},
+{
+ question: How many times Pakistan have won the ODI cricket World cup?,
+answers: {
+	a. 3,
+	b. 2,
+	c. 5,
+	d. 1
+	},
+correct_answer: d. 1
+},
+{
+ question: When was the first T20 cricket World cup played?,
+answers: {
+	a. 2005,
+	b. 2009,
+	c. 2007,
+	d. 2008
+	},
+correct_answer: c. 2007
+}
+]
