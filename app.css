@@ -50,9 +50,9 @@ ul > li {
   opacity: 0;
   transition: opacity 0.5s;
   box-sizing: border-box;
-  border: 1px black solid;
+ 
   border-radius: 5px;
-  box-shadow: 5px 10px 18px black;
+  box-shadow: 3px 1px 10px rgb(85, 85, 85);
 }
 .active-slide {
   opacity: 1;
